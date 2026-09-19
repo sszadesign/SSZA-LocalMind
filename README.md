@@ -13,7 +13,7 @@
 <br>
 
 [![DESCARGAR](https://img.shields.io/badge/DESCARGAR-ÚLTIMA%20VERSIÓN-168BFF?style=for-the-badge&labelColor=444444)](../../releases/latest)
-[![VERSIÓN](https://img.shields.io/badge/versión-v0.5.0-168BFF?style=flat-square&labelColor=444444)](../../releases)
+[![VERSIÓN](https://img.shields.io/badge/versión-v0.5.1_Beta-168BFF?style=flat-square&labelColor=444444)](../../releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-168BFF?style=flat-square&labelColor=444444)
 ![IA Local](https://img.shields.io/badge/IA-LOCAL-00B7FF?style=flat-square&labelColor=444444)
 ![Offline](https://img.shields.io/badge/Modo-OFFLINE-00C781?style=flat-square&labelColor=444444)
